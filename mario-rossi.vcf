@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Rossi;Mario;;;
+FN:Mario Rossi
+ORG:Azienda S.p.A.
+TITLE:Responsabile Commerciale
+TEL;TYPE=CELL:+393331234567
+EMAIL:nome.cognome@azienda.it
+URL:https://www.azienda.it
+END:VCARD
